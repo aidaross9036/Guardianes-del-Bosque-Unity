@@ -10,6 +10,11 @@ public class MenuManager : MonoBehaviour
     public GameObject decreaseFontButton;
     public GameObject increaseFontButton;
     public GameObject instructionText;
+    public GameObject animatedFire;
+    public GameObject animatedLeaves;
+    public GameObject animatedCloud;
+    public GameObject guardian;
+    public GameObject animatedLeaves2;
 
     public void PlayGame()
     {
@@ -52,5 +57,10 @@ public class MenuManager : MonoBehaviour
         decreaseFontButton.SetActive(state);
         increaseFontButton.SetActive(state);
         instructionText.SetActive(state);
+        animatedFire.SetActive(state);
+        animatedLeaves.SetActive(state);
+        animatedCloud.SetActive(state);
+        guardian.SetActive(state);
+        animatedLeaves2.SetActive(state);
     }
 }
