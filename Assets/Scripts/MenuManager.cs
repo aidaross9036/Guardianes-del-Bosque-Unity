@@ -15,6 +15,9 @@ public class MenuManager : MonoBehaviour
     public GameObject animatedCloud;
     public GameObject guardian;
     public GameObject animatedLeaves2;
+    public GameObject restorationTree;
+    public GameObject restorationTree2;
+
 
     public void PlayGame()
     {
@@ -62,5 +65,8 @@ public class MenuManager : MonoBehaviour
         animatedCloud.SetActive(state);
         guardian.SetActive(state);
         animatedLeaves2.SetActive(state);
+        restorationTree.SetActive(state);
+        restorationTree2.SetActive(state);
+        
     }
 }

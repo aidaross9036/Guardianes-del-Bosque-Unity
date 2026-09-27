@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: 26ba1fe8a7ca79d4e8d1dba26fb6eca4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1838503296041419162
+    second: arbolrestored_0
+  - first:
+      213: -6920365077369783927
+    second: arbolrestored_1
+  - first:
+      213: 3234028990157781003
+    second: arbolrestored_2
+  - first:
+      213: -7452140044616038478
+    second: arbolrestored_3
+  - first:
+      213: -5604028105463823650
+    second: arbolrestored_4
+  - first:
+      213: -9203821858162043837
+    second: arbolrestored_5
+  - first:
+      213: -1798020209755702559
+    second: arbolrestored_6
+  - first:
+      213: -6996404487924268272
+    second: arbolrestored_7
+  - first:
+      213: 3483362567180921146
+    second: arbolrestored_8
+  - first:
+      213: -2037875071023582846
+    second: arbolrestored_9
+  - first:
+      213: -2793361226703974981
+    second: arbolrestored_10
+  - first:
+      213: -6516972431003207301
+    second: arbolrestored_11
+  - first:
+      213: -7290873478829720142
+    second: arbolrestored_12
+  - first:
+      213: -1555665198984381932
+    second: arbolrestored_13
+  - first:
+      213: 1694556996400401223
+    second: arbolrestored_14
+  - first:
+      213: -9074529358096052234
+    second: arbolrestored_15
+  - first:
+      213: 4605038133658336370
+    second: arbolrestored_16
+  - first:
+      213: -5478696263762003680
+    second: arbolrestored_17
+  - first:
+      213: -6436210313088892057
+    second: arbolrestored_18
+  - first:
+      213: 1832479764250464329
+    second: arbolrestored_19
+  - first:
+      213: -6877299083231615494
+    second: arbolrestored_20
+  - first:
+      213: 1021318060516646894
+    second: arbolrestored_21
+  - first:
+      213: -3866207762288278686
+    second: arbolrestored_22
+  - first:
+      213: 7909283776869863406
+    second: arbolrestored_23
+  - first:
+      213: 1199626130277473712
+    second: arbolrestored_24
+  - first:
+      213: 3481375241750700169
+    second: arbolrestored_25
+  - first:
+      213: -8546506161672189710
+    second: arbolrestored_26
+  - first:
+      213: -530349783173223314
+    second: arbolrestored_27
+  - first:
+      213: -6145039718532401225
+    second: arbolrestored_28
+  - first:
+      213: 3442195253077320746
+    second: arbolrestored_29
+  - first:
+      213: 9128429600174998205
+    second: arbolrestored_30
+  - first:
+      213: 3399771140608028803
+    second: arbolrestored_31
+  - first:
+      213: 3816497970125508008
+    second: arbolrestored_32
+  - first:
+      213: -7461967348674477929
+    second: arbolrestored_33
+  - first:
+      213: -8120267663639267725
+    second: arbolrestored_34
+  - first:
+      213: -4141790537823485197
+    second: arbolrestored_35
+  - first:
+      213: -8496386823332375088
+    second: arbolrestored_36
+  - first:
+      213: -6248277296361099953
+    second: arbolrestored_37
+  - first:
+      213: 6994759399041910080
+    second: arbolrestored_38
+  - first:
+      213: 509566114647735559
+    second: arbolrestored_39
+  - first:
+      213: 4172833601495085081
+    second: arbolrestored_40
+  - first:
+      213: 5328353929965913549
+    second: arbolrestored_41
+  - first:
+      213: -8093929555055611336
+    second: arbolrestored_42
+  - first:
+      213: -6518650091056964929
+    second: arbolrestored_43
+  - first:
+      213: -2563594934190705482
+    second: arbolrestored_44
+  - first:
+      213: 4006976975274469395
+    second: arbolrestored_45
+  - first:
+      213: -3532136066675365168
+    second: arbolrestored_46
+  - first:
+      213: 8206734085161217617
+    second: arbolrestored_47
+  - first:
+      213: -2682401815062105795
+    second: arbolrestored_48
+  - first:
+      213: 8941253578593872796
+    second: arbolrestored_49
+  - first:
+      213: 9091985085658991052
+    second: arbolrestored_50
+  - first:
+      213: 4469908052254882350
+    second: arbolrestored_51
+  - first:
+      213: 8195934554948473273
+    second: arbolrestored_52
+  - first:
+      213: 8842211682800046714
+    second: arbolrestored_53
+  - first:
+      213: -8806575967568355037
+    second: arbolrestored_54
+  - first:
+      213: 721950855309087730
+    second: arbolrestored_55
+  - first:
+      213: -7520179387154250843
+    second: arbolrestored_56
+  - first:
+      213: -6350717725072486836
+    second: arbolrestored_57
+  - first:
+      213: 6737538804308168187
+    second: arbolrestored_58
+  - first:
+      213: 3536800803575463920
+    second: arbolrestored_59
+  - first:
+      213: -5071264832805159294
+    second: arbolrestored_60
+  - first:
+      213: -5721781314917229155
+    second: arbolrestored_61
+  - first:
+      213: 5966257325212785932
+    second: arbolrestored_62
+  - first:
+      213: -6770863224597934462
+    second: arbolrestored_63
+  - first:
+      213: -6706606319609593447
+    second: arbolrestored_64
+  - first:
+      213: -1287091221087531905
+    second: arbolrestored_65
+  - first:
+      213: -2452598649688094361
+    second: arbolrestored_66
+  - first:
+      213: 3260187074293631272
+    second: arbolrestored_67
+  - first:
+      213: 7097185303126996626
+    second: arbolrestored_68
+  - first:
+      213: 1772102175384338744
+    second: arbolrestored_69
+  - first:
+      213: 6104903910977893654
+    second: arbolrestored_70
+  - first:
+      213: -4066434759108107924
+    second: arbolrestored_71
+  - first:
+      213: 444719269921838062
+    second: arbolrestored_72
+  - first:
+      213: 8102023211069963607
+    second: arbolrestored_73
+  - first:
+      213: 2551773349710651396
+    second: arbolrestored_74
+  - first:
+      213: 3509155704525230360
+    second: arbolrestored_75
+  - first:
+      213: -6411502758116606407
+    second: arbolrestored_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arbolrestored_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a910fe6c10da38910800000000000000
+      internalID: 1838503296041419162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolrestored_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989fa57b0ace5ff90800000000000000
+      internalID: -6920365077369783927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolrestored_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 444
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b087baf5b3491ec20800000000000000
+      internalID: 3234028990157781003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolrestored_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 444
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b78230dc1ea49890800000000000000
+      internalID: -7452140044616038478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolrestored_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed20686212e7a32b0800000000000000
+      internalID: -5604028105463823650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolrestored_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3449640b8c4754080800000000000000
+      internalID: -9203821858162043837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolrestored_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eab98245262c07e0800000000000000
+      internalID: -1798020209755702559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbolrestored_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0134350df27c7ee90800000000000000
+      internalID: -6996404487924268272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: df5ba2e2a20a689499690c4fcde93902
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":443.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      arbolrestored_0: 1838503296041419162
+      arbolrestored_1: -6920365077369783927
+      arbolrestored_2: 3234028990157781003
+      arbolrestored_3: -7452140044616038478
+      arbolrestored_4: -5604028105463823650
+      arbolrestored_5: -9203821858162043837
+      arbolrestored_6: -1798020209755702559
+      arbolrestored_7: -6996404487924268272
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
